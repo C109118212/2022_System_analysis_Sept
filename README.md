@@ -3,6 +3,10 @@
 s = "python syntax hilighting"
 print s
 ```
+```js
+var s = "JavaScript syntax hilighting";
+alert(s);
+```
 
 
 
